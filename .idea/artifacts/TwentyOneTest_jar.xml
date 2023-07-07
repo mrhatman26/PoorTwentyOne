@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TwentyOneTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TwentyOneTest_jar</output-path>
+    <root id="archive" name="TwentyOneTest.jar">
+      <element id="module-output" name="TwentyOneTest" />
+    </root>
+  </artifact>
+</component>
